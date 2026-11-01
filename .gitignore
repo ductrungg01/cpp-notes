@@ -19,3 +19,6 @@ output.txt
 # OS files
 .DS_Store
 Thumbs.db
+
+# Temporary temp code folder
+code/
