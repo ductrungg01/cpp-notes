@@ -1,4 +1,4 @@
-# DSA & Algorithm Notes
+# C++ Notes
 
 My personal notes, C++ implementations, and solutions while learning **Data Structures, Algorithms, and C++**.
 
