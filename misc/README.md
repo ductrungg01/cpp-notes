@@ -1,0 +1,4 @@
+- Explicit: https://www.geeksforgeeks.org/cpp/use-of-explicit-keyword-in-cpp/
+- Structure padding: https://www.geeksforgeeks.org/c/structure-padding-in-cpp/
+- Enum class: https://www.geeksforgeeks.org/cpp/enum-classes-in-c-and-their-advantage-over-enum-datatype/
+- static_cast: https://www.geeksforgeeks.org/cpp/static_cast-in-cpp/
