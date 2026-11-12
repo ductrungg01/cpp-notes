@@ -1,6 +1,6 @@
-# C++ Notes
+# C++ Notesl;'lk'kl';
+My personal not./es, C++ implementations, and solutions while learning **Data Structures, Algorithms, and C++**.
 
-My personal notes, C++ implementations, and solutions while learning **Data Structures, Algorithms, and C++**.
 
 This repository may also contain miscellaneous C++ topics and experiments that I find useful during my learning, such as smart pointers, STL, memory management, debugging, and other programming concepts.
 
